@@ -1,0 +1,160 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.outerbox2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8vw;
+    margin-top: 12vh;
+}
+.outerbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 15vh; */
+    /* margin-top: 15vh; */
+}
+body{
+    
+    background:#2E2E3A;
+    
+    
+    
+}
+.box{
+    border: 2px solid white;
+    border-radius: 25px;
+    background-color: white;
+    width: 30vw;
+    height: 100%;
+    padding: 5vh;
+    text-align: center;
+    filter: drop-shadow(0 0 60px #7f7fc7);
+    /* margin-top: 13vh; */
+    
+
+}
+.box:hover{
+    filter: drop-shadow(0 0 78px #7f7fc7);
+    transition: all 0.5s ease-in-out;
+}
+.headi{
+    font-size: x-large;
+    font-weight: 500;
+    color: white;   /* Emerald green */
+    border: 1px solid #7f7fc7;
+    border-radius: 6px;
+    background-color: #7f7fc7;
+    filter: drop-shadow(0 0 78px black);
+
+
+
+}
+input {
+    width: 100%;
+    border: 1.5px solid lightgray;
+    border-radius: 5px;
+    height: 3vh;
+    padding: 8px;
+    outline: none;
+}
+.name{
+    text-align: left;
+    margin-bottom: 1.1vh;
+    
+}
+.Age{
+    text-align: left;
+    margin-bottom: 1.1vh;
+}
+.income{
+    text-align: left;
+    margin-bottom: 1.1vh;
+}
+button{
+    margin-top: 5vh;
+    width: 100%;
+    height: 7vh;
+    border-radius: 5px;
+    border: 1px solid #7f7fc7;
+    background-color: #7f7fc7;
+    color: white;
+    font-size: large;
+    font-family: "Poppins", sans-serif;
+
+}
+button:hover{
+    filter: drop-shadow(0 0 10px black);
+    transition: all 0.3s ease-in-out;
+}
+button:active{
+    scale: 0.95;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.outerbox2{
+    display: flex;
+    justify-content: center;
+    
+    padding:    
+}
+
+.output{
+    /* border: 2px solid wheat; */
+    border: 2px solid white;
+    border-radius: 25px;
+    background-color: white;
+    width: 30vw;
+    height: 100%;
+    padding: 5vh;
+    text-align: left;
+    filter: drop-shadow(0 0 60px #7f7fc7);
+    margin-top: -12vh;
+
+}
+.T{
+    width: 100%;
+    border: 1.5px solid lightgray;
+    border-radius: 5px;
+    height: 3vh;
+    padding: 8px;
+    outline: none;
+    
+}.I{
+    width: 100%;
+    border: 1.5px solid lightgray;
+    border-radius: 5px;
+    height: 3vh;
+    padding: 8px;
+    outline: none;
+}
+.Paid{
+    width: 100%;
+    border: 1.5px solid lightgray;
+    border-radius: 5px;
+    height: 3vh;
+    padding: 8px;
+    outline: none;
+}
+.After{
+    width: 100%;
+    border: 1.5px solid lightgray;
+    border-radius: 5px;
+    height: 3vh;
+    padding: 8px;
+    outline: none;
+}
+.Tax_Rate{
+    margin-bottom: -2vh;
+}
+.You_income{
+    margin-bottom: -2vh;
+}
+.Tax_to_be_paid{
+    margin-bottom: -2vh;
+}
+.income_after_deduction{
+    margin-bottom: -2vh;
+}
