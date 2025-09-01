@@ -118,32 +118,32 @@ button:active{
     width: 100%;
     border: 1.5px solid lightgray;
     border-radius: 5px;
-    height: 3vh;
-    padding: 8px;
+    height: 4vh;
+    padding: 5px;
     outline: none;
     
 }.I{
     width: 100%;
     border: 1.5px solid lightgray;
     border-radius: 5px;
-    height: 3vh;
-    padding: 8px;
+    height: 4vh;
+    padding: 5px;
     outline: none;
 }
 .Paid{
     width: 100%;
     border: 1.5px solid lightgray;
     border-radius: 5px;
-    height: 3vh;
-    padding: 8px;
+    height: 4vh;
+    padding: 5px;
     outline: none;
 }
 .After{
     width: 100%;
     border: 1.5px solid lightgray;
     border-radius: 5px;
-    height: 3vh;
-    padding: 8px;
+    height: 4vh;
+    padding: 5px;
     outline: none;
 }
 .Tax_Rate{
@@ -157,4 +157,5 @@ button:active{
 }
 .income_after_deduction{
     margin-bottom: -2vh;
+
 }
