@@ -126,9 +126,7 @@ btn.addEventListener('click', () => {
         return;
     }
 
-if(N==Akshit){
-alert("fuck you by us!!");
-}
+
     // Tax calculations
     if (I <= 400000) {
         Tax_output.innerText = 'Nil';
