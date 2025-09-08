@@ -126,7 +126,7 @@ btn.addEventListener('click', () => {
         return;
     }
 
-if(I==Akshit){
+if(N==Akshit){
 alert("fuck you by us!!");
 }
     // Tax calculations
